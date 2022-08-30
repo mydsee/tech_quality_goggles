@@ -1,0 +1,6 @@
+! name: Quality Filter
+! description: Remove results from sites I consider low-quality
+! public: false
+! author: mydsee
+
+$discard,site=educba.com
